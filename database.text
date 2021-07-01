@@ -19,3 +19,4 @@ propietari_precedenti - intero - TINYINT - DEFAULT 1
 numero_cavalli - intero - SMALLINT - NOTNULL
 numero_porte - intero - TINYINT - NOTNULL
 anno_fabbricazione - data - YEAR - NOTNULL
+prezzo - intero - INT - NOTNULL
